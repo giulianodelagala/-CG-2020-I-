@@ -1,0 +1,3 @@
+/home/alexander/Documents/Grafica/ejercicio1/CMakeFiles/rebuild_cache.dir
+/home/alexander/Documents/Grafica/ejercicio1/CMakeFiles/ejercicio01.dir
+/home/alexander/Documents/Grafica/ejercicio1/CMakeFiles/edit_cache.dir
